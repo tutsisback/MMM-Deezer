@@ -2,7 +2,7 @@
 
 This is a module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/).
 
-Deezer music player for MagicMirror²
+Deezer music player for MagicMirror².
 
 For the moment, only one button to start playing the list of loved songs that you have on your Deezer's account.
 Work still in progress !
